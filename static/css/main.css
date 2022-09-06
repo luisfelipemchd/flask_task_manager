@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+table {
+    overflow: scroll;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #cccccc;
+  }
+  
+  #thead {
+    background-color: #f8f4f4;
+    height: 50px;
+    border: 1px solid #cccccc;
+    color: #929292;
+  }
+  
+  /* #tableBody {
+    display: block;
+  }This attribute is not needed  */ 
+  
+  th {
+    border: 1px solid #cccccc;
+  }
